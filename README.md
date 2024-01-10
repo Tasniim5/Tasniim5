@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tasniim5
 - 👀 I’m interested in ... learning to code
-- 🌱 I’m currently learning ...CSS
+- 🌱 I’m currently learning ...how to build funtioning websites
 - 💞️ I’m looking to collaborate on ...Dev projects
 - 📫 How to reach me ... right here
 
